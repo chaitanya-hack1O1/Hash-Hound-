@@ -53,7 +53,7 @@ No third-party Python packages are required.
 Clone the repository:
 
 ```bash
-git clone https://github.com/chaitanya-hack1O1/hash-hound.git
+git clone https://github.com/chaitanya-hack1O1/Hash-Hound-.git
 cd hash-hound
 ```
 
